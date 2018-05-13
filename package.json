@@ -1,0 +1,52 @@
+{
+  "_from": "moment-timezone-es6",
+  "_id": "moment-timezone-es6@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-5R4WOSJtKfRcGstp07YFXKCd10zvUM8b9YPtcFcsqvSCqYUdWYoc5xMjq8jtrnkMMYJ/jO/CEQZPLn9V/QTQhQ==",
+  "_location": "/moment-timezone-es6",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "moment-timezone-es6",
+    "name": "moment-timezone-es6",
+    "escapedName": "moment-timezone-es6",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/moment-timezone-es6/-/moment-timezone-es6-1.0.0.tgz",
+  "_shasum": "800704d1672937ad7aac81576b40bee54d52926b",
+  "_spec": "moment-timezone-es6",
+  "_where": "C:\\Projects\\PaJaMa\\Angular2",
+  "author": {
+    "name": "pj_martins@outlook.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pj-martins/moment-timezone-es6/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "*",
+    "moment-timezone": "*"
+  },
+  "deprecated": false,
+  "description": "moment-timezone ES6",
+  "homepage": "https://github.com/pj-martins/moment-timezone-es6#readme",
+  "keywords": [
+    "es6",
+    "moment-timezone"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "moment-timezone-es6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pj-martins/moment-timezone-es6.git"
+  },
+  "version": "1.0.0"
+}
